@@ -7,6 +7,8 @@ kommandoene under på kjøres i terminalen, pass på at du ikke gjør det inni e
 4. npm i bootstrap-icons
 
 Kommandoen under kompilerer main.scss til main.css hver gang den kjøres
+
 5. npm run css:build 
 Kommandoen under kompilerer main.scss til main.css hver gang man LAGRER main.scss (må alltid kjøres en gang først når man åpner prosjektet)
+
 6. npm run css:watch
